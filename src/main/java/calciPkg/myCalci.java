@@ -20,7 +20,7 @@ public class myCalci {
 
     public static void main(String[] args) {
         myCalci calci = new myCalci();
-        System.out.println("Sum is new : " + calci.sum(20, 10));
+        System.out.println("Sum is new sachin changed : " + calci.sum(20, 10));
         System.out.println("Diff is : " + calci.diff(20, 10));
         System.out.println("Mul is : " + calci.mul(20, 10));
         System.out.println("Div is : " + calci.mul(20, 10));
